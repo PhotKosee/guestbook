@@ -1,1 +1,1 @@
-# coding-project-template
+# Guest Book Website with Django
